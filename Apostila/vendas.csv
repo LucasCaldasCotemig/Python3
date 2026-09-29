@@ -1,0 +1,37 @@
+data,loja,regiao,produto,categoria,quantidade,preco_unitario
+2025-01-03,Loja Salvador,Nordeste,Mouse,Informática,8.0,80.0
+2025-01-03,Loja Savassi,Sudeste,Notebook,Informática,1.0,3455.0
+2025-01-17,Loja Centro,Sudeste,Celular,Telefonia,3.0,1640.0
+2025-02-05,Loja Centro,Sudeste,Mouse,Informática,2.0,80.0
+2025-02-13,Loja Centro,Sudeste,Mouse,Informática,2.0,80.0
+2025-02-27,Loja Savassi,Sudeste,Notebook,Informática,,3445.0
+2025-03-03,Loja Savassi,Sudeste,Celular,Telefonia,1.0,1815.0
+2025-03-19,Loja Salvador,Nordeste,Fone de ouvido,Telefonia,4.0,150.0
+2025-03-19,Loja Salvador,Nordeste,Geladeira,Eletrodomésticos,3.0,2995.0
+2025-04-15,Loja Curitiba,Sul,Celular,Telefonia,2.0,1830.0
+2025-04-18,Loja Centro,Sudeste,Geladeira,Eletrodomésticos,1.0,3200.0
+2025-04-23,Loja Salvador,Nordeste,Celular,Telefonia,1.0,
+2025-05-03,Loja Salvador,Nordeste,Liquidificador,Eletrodomésticos,9.0,190.0
+2025-05-11,Loja Centro,Sudeste,Geladeira,Eletrodomésticos,2.0,2985.0
+2025-05-16,Loja Savassi,Sudeste,Notebook,Informática,3.0,3360.0
+2025-06-16,Loja Salvador,Nordeste,Celular,Telefonia,3.0,1745.0
+2025-06-22,Loja Savassi,Sudeste,Fone de ouvido,Telefonia,8.0,135.0
+2025-06-27,Loja Centro,Sudeste,Geladeira,Eletrodomésticos,3.0,3385.0
+2025-07-16,Loja Curitiba,Sul,Notebook,Informática,1.0,3810.0
+2025-07-21,Loja Centro,Sudeste,Notebook,Informática,3.0,3640.0
+2025-07-22,Loja Curitiba,Sul,Celular,Telefonia,3.0,1760.0
+2025-08-10,Loja Centro,Sudeste,Fone de ouvido,Telefonia,2.0,140.0
+2025-08-20,Loja Salvador,Nordeste,Notebook,Informática,,3400.0
+2025-08-28,Loja Savassi,Sudeste,Liquidificador,Eletrodomésticos,5.0,195.0
+2025-09-08,Loja Curitiba,Sul,Celular,Telefonia,3.0,1940.0
+2025-09-09,Loja Salvador,Nordeste,Mouse,Informática,8.0,85.0
+2025-09-18,Loja Curitiba,Sul,Notebook,Informática,1.0,3465.0
+2025-10-06,Loja Savassi,Sudeste,Notebook,Informática,2.0,3730.0
+2025-10-18,Loja Salvador,Nordeste,Celular,Telefonia,1.0,1670.0
+2025-10-22,Loja Savassi,Sudeste,Notebook,Informática,1.0,3255.0
+2025-11-02,Loja Curitiba,Sul,Notebook,Informática,2.0,
+2025-11-05,Loja Salvador,Nordeste,Geladeira,Eletrodomésticos,3.0,3085.0
+2025-11-13,Loja Centro,Sudeste,Fone de ouvido,Telefonia,10.0,145.0
+2025-12-04,Loja Savassi,Sudeste,Notebook,Informática,1.0,3460.0
+2025-12-19,Loja Salvador,Nordeste,Geladeira,Eletrodomésticos,1.0,2945.0
+2025-12-20,Loja Savassi,Sudeste,Geladeira,Eletrodomésticos,1.0,3485.0

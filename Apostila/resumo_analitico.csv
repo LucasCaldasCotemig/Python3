@@ -1,0 +1,5 @@
+loja;regiao;numero_vendas;itens_vendidos;faturamento_total;ticket_medio;participacao_pct
+Loja Savassi;Sudeste;10;26.0;45400.0;4540.0;29.71
+Loja Salvador;Nordeste;11;44.0;44001.76;4000.16;28.79
+Loja Centro;Sudeste;9;28.0;37215.0;4135.0;24.35
+Loja Curitiba;Sul;6;12.0;26198.52;4366.42;17.14
